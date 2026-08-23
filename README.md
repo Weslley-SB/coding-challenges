@@ -7,7 +7,7 @@ Para uma análise detalhada, listei abaixo onde se encontra cada arquivo:
 
 | Projeto | Link para Pasta | Link para Descrição |
 | :--- | :---: | :---: |
-| **Minigames** | [Acessar Pasta](/minigames) | [Ver Descrição](#descrição-minigames)
+| **Minigames** | [Acessar Pasta](/Minigames) | [Ver Descrição](#descrição-minigames)
 | **Desafios** | [Acessar Pasta](/Desafios) | [Ver Descrição](#descrição-desafios)
 | **Desafios Empresariais** | [Acessar Pasta](/Desafios-Empresariais) | [Ver Descrição](#descrição-desafios-empresariais)
 
